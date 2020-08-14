@@ -1,6 +1,6 @@
 # Incoherence based optimal selection of independent measurements in di use optical tomography
 
-MATLAB Codes* : ([requires NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))
+**MATLAB Codes** : ([requires NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))
 
 This MATLAB code is used as part of the work presented in:
 
